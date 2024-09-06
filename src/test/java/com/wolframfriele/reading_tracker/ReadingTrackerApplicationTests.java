@@ -1,4 +1,4 @@
-package nl.wolframfriele.reading_tracker;
+package com.wolframfriele.reading_tracker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
